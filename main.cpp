@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
+  int num, count;
+  
   cout<<"Breach 001"<<endl;
   cout<<"Breach 002"<<endl;
   cout<<"Breach 003"<<endl;
