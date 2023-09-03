@@ -4,3 +4,4 @@
 
 Tools:
 - Calculator
+- BMI Calculator
