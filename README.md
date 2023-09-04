@@ -5,3 +5,5 @@
 Tools:
 - Calculator
 - BMI Calculator
+- Advance Password Generator
+- Automated File Organizer
