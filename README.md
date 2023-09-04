@@ -8,6 +8,8 @@ Tools:
 - Advance Password Generator
 - Automated File Organizer
 
+> Give a 🌟 to the repository btw :)
+
 # Contributors
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=sandarutharuneth/cpps)
